@@ -1,0 +1,133 @@
+.banner{
+    
+    background-color:rgb(4, 28, 31);
+    background-image:url('../images/banner.png');
+    height: 605px;
+    width: 1340px;
+    left: 0px;
+    top: 0px;
+    border-style: solid;
+    border-width: 0px;
+    
+    
+}
+.banner-content{
+    text-align: center;
+    color:rgb(63, 172, 235);
+    top: 7px;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 1200px;
+    
+}
+
+h1{
+    color:rgb(63, 172, 235);
+    align-content: center;
+    height: 214px;
+    width: 248px;
+    left: 50px;
+    top: 27px;
+    border-radius: 0px;  
+    margin-left: auto; margin-right: auto; width: 1200px;
+    
+}
+
+p{
+    color: white;
+    margin-left: auto; 
+    margin-right: auto;
+    
+}
+
+div{
+    text-align: center;
+    
+}
+
+button{
+    
+    background-color:rgb(4, 28, 31);
+    color:rgb(63, 172, 235);
+    border-color: rgb(63, 172, 235); 
+    padding: 10px;
+    margin-left: auto; margin-right: auto; width: 200px
+}
+
+
+.logo{
+    color:rgb(28, 28, 82); 
+    align-content: center;
+    height: 214px;
+    width: 248px;
+    left: 50px;
+    top: 27px;
+    border-radius: 0px;  
+    margin-left: auto; margin-right: auto; width: 1200px
+}
+
+#course-content{
+    text-align: center;
+    background: black;
+    color:rgb(63, 172, 235);
+    border-style: solid;
+    border-width: 1px;
+    height: 300px;
+    width: 1340px;
+    
+    
+    
+}
+.module{
+    text-align: center;
+    background-color: rgb(60, 60, 65);
+    color: white;
+    padding: 15px;
+    border: 1px;
+    border: 1px solid #33A8DB;
+    height: 20px;
+    width: 500px;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 600px;
+   
+/* Shadow Effect */
+box-shadow: inset -2px 6px 4px rgba(0, 0, 0, 0.4);
+border-radius: 57px;
+
+}
+
+span{
+    color:rgb(63, 172, 235);
+}
+
+#transform-world{
+    background-image: url('../images/woman-code.png');
+    height: 605px;
+    width: 1340px;
+    left: 0px;
+    top: 0px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#professional-challenges{
+    background-image: url('../images/woman-code.png');
+    background: black;
+    color:rgb(63, 172, 235);   
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    height: 605px;
+    width: 1340px;
+    
+}
+
+.dio-logo{
+    background-color:rgb(4, 28, 31);
+    height: 70px;
+    width: 1340px;  
+}
+
+
+
